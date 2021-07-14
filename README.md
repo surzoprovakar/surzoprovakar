@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, I am Provakar
+I am a Ph.D. student at Virginia Tech. I work under the supervision of <a href="https://people.cs.vt.edu/~tilevich/" target="_blank"> Dr.T.</a>
+<br>
 
-<!--
-**surzoprovakar/surzoprovakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research interests are in the field of <b>Distributed Systems, Middleware, Systems end of Software Engineering</b>.
+<br>
 
-Here are some ideas to get you started:
+Before joining at Virginia Tech, I was a full-time <b>Software Engineer</b> at <a href = "https://research.samsung.com/srbd" target="_blank"> <b>Samsung R&D Institute Bangladesh (SRBD)</b></a>.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⛰️ I am passionate about Mountaineering and Hiking.
+- 📚 I love to read storybooks.
+- 🎵 I like to listen to music at my leisure.
+
+<br>
+
+## You can find me at:
+- 🏢 [Linkedin](https://www.linkedin.com/in/provakar-m/)
+- 💬 [Twitter](https://twitter.com/Provakar034)
+  
+<br>
+
+![surzoprovakar's github stats](https://github-readme-stats.vercel.app/api?username=surzoprovakar&count_private=true&show_icons=true&theme=algolia&hide_rank=false)
