@@ -14,10 +14,4 @@ Before joining at Virginia Tech, I was a full-time <b>Software Engineer</b> at <
 
 <br>
 
-## You can find me at:
-- 🏢 [Linkedin](https://www.linkedin.com/in/provakar-m/)
-- 💬 [Twitter](https://twitter.com/Provakar034)
-  
-<br>
-
 ![surzoprovakar's github stats](https://github-readme-stats.vercel.app/api?username=surzoprovakar&count_private=true&show_icons=true&theme=algolia&hide_rank=false)
